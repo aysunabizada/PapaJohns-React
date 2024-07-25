@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Kampaniya from './components/Main/Kampaniya';
 import axios from 'axios';
+import CardInfo from './components/Main/CardInfo';
 
 function App() {
     const [status, setStatus] = useState(false); // sebeti acan sey
@@ -30,6 +31,7 @@ function App() {
             <Routes>
                 <Route path="/" element={<Slider />} />
                 <Route path="/kampaniyalar" element={<Kampaniya data={data} setData={setData} />} />
+                <Route path="/product" element={<CardInfo data={data} setData={setData} basket={basket} setBasket={setBasket} count={count} setCount={setCount} setPrice={setPrice} pricee={pricee} />} />
                 <Route path="/menu/:category" element={<Main data={data} setData={setData} setStatus={setStatus} status={status} basket={basket} setBasket={setBasket} count={count} setCount={setCount} setPrice={setPrice} pricee={pricee} />} />
             </Routes>
             <Basket del={deletee} setStatus={setStatus} status={status} basket={basket} setBasket={setBasket} count={count} setCount={setCount} setPrice={setPrice} pricee={pricee} />

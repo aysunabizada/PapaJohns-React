@@ -6,6 +6,7 @@ body{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Robo
 .txtwhite{color: #fff;}
 .p20{padding: 30px 0;}
 .m30{margin: 30px 0;}
+html{overflow-x: hidden;}
 .swiper-pagination-bullet-active {background-color: #0F9675 !important;}
 #slide1{background: url('assets/img/sl1mobil.jpg')center/cover no-repeat; height: 60vh;}
 #slide2{background: url('assets/img/sl2mobil.jpg')center/cover no-repeat; height: 60vh;}
@@ -63,7 +64,7 @@ body{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Robo
     font-weight: 600;
     cursor: pointer;
 }
-.card button:active{box-shadow: rgba(80, 80, 87, 0.2) 0px 7px 29px 0px}
+.card button:active, .box-shdw{box-shadow: rgba(80, 80, 87, 0.2) 0px 7px 29px 0px}
 .promokod input{
     border: 1px solid #0F9675;
     border-radius: 6px;

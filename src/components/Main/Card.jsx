@@ -1,10 +1,11 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Card({ item, setBasket, basket, setCount, count, pricee, setPrice}) {
     const { img, price, title, composition } = item
     return (
         <div className="card">
-            <a href="#"><img src={img} alt={title} /></a>
+            <Link to='/product'><img src={img} alt={title} /></Link>
             <div className="sum">
                 <h3>{title}</h3>
                 <button onClick={()=> {
