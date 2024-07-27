@@ -2,15 +2,16 @@ import React from 'react'
 import { Link } from "react-router-dom";
 import { FaBasketShopping, FaUser } from "react-icons/fa6";
 import logo from '../../src/assets/img/logo.png';
+import flagAze from '../../src/assets/img/flag_az.png';
 
 function Header({ setStatus, status, count, pricee }) {
     return (
         <header>
             <nav>
-                <div className="nav-top container">
-                    <Link to='/'><img src="src/assets/img/favicon.png" alt="" id="logo-mobil" /></Link>
+                <div className="nav-top container justify-center">
+                    <Link to='/'><img src={logo} alt="" id="logo-mobil" /></Link>
                     <div className="lang txtcenter">
-                        <img src="src/assets/img/flag_az.png" alt="aze" id="flag" />
+                        <img src={flagAze} alt="aze" id="flag" />
                         <p>AZ</p>
                     </div>
                     <div className="login text-center">
@@ -20,7 +21,7 @@ function Header({ setStatus, status, count, pricee }) {
                     <div className="sebet txtcenter">
                         <span className="sebetsay">{count}</span>
                         <FaBasketShopping onClick={() => setStatus(true)} className="fa-solid fa-basket-shopping" />
-                        <p className="sebetqiymet">{pricee} ₼</p>
+                        <p className="sebetqiymet">{pricee * count} ₼</p>
                     </div>
                 </div>
                 <div className="nav-top-desk container m-auto">
@@ -30,7 +31,7 @@ function Header({ setStatus, status, count, pricee }) {
                     </div>
                     <div className="ntd-right">
                         <div className="lang" id="drp">
-                            <img src="src/assets/img/flag_az.png" alt="" id="flag" />
+                            <img src={flagAze} alt="" id="flag" />
                             <span>Azərbaycanca ▼</span>
                             <div className="down">
                                 <div className="lang">
@@ -51,15 +52,15 @@ function Header({ setStatus, status, count, pricee }) {
                         <div className="sebet">
                             <span className="sebetsay">{count}</span>
                             <FaBasketShopping onClick={() => setStatus(true)} className="fa-solid fa-basket-shopping" />
-                            <p className="sebetqiymet">{pricee} ₼</p>
+                            <p className="sebetqiymet">{pricee * count} ₼</p>
                         </div>
                     </div>
                 </div>
                 <div className="nav-bottom">
                     <div className="container">
                         <Link to='/' id="logmob" href=""><img src={logo} alt="PapaJohns-Logo" /></Link>
-                        <div className="nb-list">
-                            <ul>
+                        <div className="nb-list w-full">
+                            <ul className='justify-center'>
                                 <li className="link"><Link to='/kampaniyalar'>kampaniyalar</Link></li>
                                 <li className="link"><Link to='/menu/papadias'>papadias</Link></li>
                                 <li className="link"><Link to='/menu/pizza'>pizza</Link></li>

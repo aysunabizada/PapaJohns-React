@@ -7,12 +7,14 @@ import { Pagination, Autoplay } from 'swiper/modules';
 function Slider() {
     return (
         <>
-            <div className="promokod container m-auto">
-                <p>Promo kodunuz var?</p>
-                <span>Endirimdən istifadə edin!</span>
-                <input type="text" id="prokod" placeholder="Promo kodu daxil edin" />
-                <button>OK</button>
-            </div> <br />
+            <div className="py-5">
+                <div className="promokod container m-auto">
+                    <p>Promo kodunuz var?</p>
+                    <span>Endirimdən istifadə edin!</span>
+                    <input type="text" id="prokod" placeholder="Promo kodu daxil edin" />
+                    <button>OK</button>
+                </div>
+            </div>
             <Swiper
                 loop={true}
                 autoplay={{

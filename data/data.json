@@ -6,7 +6,8 @@
             "img": "https://www.papajohns.az/uploads/images/Papadias/%C4%B0talyan-papadias.png",
             "price": "9",
             "category": "papadias",
-            "variations": []
+            "variations": [],
+            "id": "1SfcpmSLl3ot4mc7Z-7ql"
         },
         {
             "title": "Cheddar Meksika Papadias",
@@ -14,7 +15,8 @@
             "img": "https://www.papajohns.az/uploads/images/Papadias/Cheddar-Mexican-Papadias-yeni-sayt.png",
             "price": "9",
             "category": "papadias",
-            "variations": []
+            "variations": [],
+            "id": "cbz3BHsR1j8F7J4mmjx9a"
         },
         {
             "title": "Dabl Cheddar Çizburger Papadias",
@@ -22,7 +24,8 @@
             "img": "https://www.papajohns.az/uploads/images/Papadias/Dabl-cheddar-%C3%A7%C4%B0zburger-Papad%C4%B0as-yeni-sayt.png",
             "price": "9",
             "category": "papadias",
-            "variations": []
+            "variations": [],
+            "id": "esxQUoV8zl2Mswz6eMwkC"
         },
         {
             "title": "Nyu Orleans Papadias",
@@ -30,7 +33,8 @@
             "img": "https://www.papajohns.az/uploads/images/Papadias/Nyu-Orleans-papad%C4%B0as-yeni-sayt.png",
             "price": "9",
             "category": "papadias",
-            "variations": []
+            "variations": [],
+            "id": "nusHPUToAxJyK5zQOLBaU"
         },
         {
             "title": "Çiken Baffalo Papadias",
@@ -38,7 +42,8 @@
             "img": "https://www.papajohns.az/uploads/images/Papadias/Buffalo-Chiken-Papadias.jpg",
             "price": "9",
             "category": "papadias",
-            "variations": []
+            "variations": [],
+            "id": "Lmz36v0bmKw7moWxD9Oak"
         },
         {
             "title": "Acılı Çiken Ranç Papadias",
@@ -46,7 +51,8 @@
             "img": "https://www.papajohns.az/uploads/images/Papadias/Acili-%C3%A7iken-ran%C3%A7-papadias.png",
             "price": "9",
             "category": "papadias",
-            "variations": []
+            "variations": [],
+            "id": "H3WlBKayVTVKvh-EhVUIO"
         },
         {
             "title": "Çiken BBQ Papadias",
@@ -54,7 +60,8 @@
             "img": "https://www.papajohns.az/uploads/images/Papadias/%C3%87iken-BBQ-Papadias.png",
             "price": "9",
             "category": "papadias",
-            "variations": []
+            "variations": [],
+            "id": "JNHsV9QGKzfZOnuqxOV85"
         }
     ],
     "pizza": [
@@ -98,7 +105,8 @@
                     "price": "21",
                     "size": "Böyük, 35 sm -  21 M"
                 }
-            ]
+            ],
+            "id": "eqtdV7d1X33VkB9rOC_Jd"
         },
         {
             "title": "Qril Çiken Parmezan",
@@ -145,7 +153,8 @@
                     "price": "21",
                     "size": "Böyük, 35 sm -  21 M"
                 }
-            ]
+            ],
+            "id": "tMcRbeMZzjbSUWZVSmxAW"
         },
         {
             "title": "Amerikan Hot",
@@ -192,7 +201,8 @@
                     "price": "9",
                     "size": "Kiçik, 23 sm -  9 M"
                 }
-            ]
+            ],
+            "id": "4W3O5ET9thkewAEFAej-J"
         },
         {
             "title": "Acılı Çiken Ranç",
@@ -240,7 +250,8 @@
                     "price": "22",
                     "size": "Böyük, 35 sm -  22 M"
                 }
-            ]
+            ],
+            "id": "WI-lpUm85l7h9ToCWhdwJ"
         },
         {
             "title": "Karnaval",
@@ -280,7 +291,8 @@
                     "price": "19",
                     "size": "Böyük, 35 sm -  19 M"
                 }
-            ]
+            ],
+            "id": "lsfle5gwoS1JYOOYsOu4G"
         },
         {
             "title": "NY Style Margarita (40 sm)",
@@ -289,7 +301,8 @@
             "price": "20",
             "subcategory": [],
             "category": "pizza",
-            "variations": []
+            "variations": [],
+            "id": "qlEY-kGyJBmXVMg7-aAlc"
         },
         {
             "title": "NY Style Grill Chicken (40sm)",
@@ -298,7 +311,8 @@
             "price": "26",
             "subcategory": [],
             "category": "pizza",
-            "variations": []
+            "variations": [],
+            "id": "hj1vpBBSiAHYkY9ql-BAp"
         },
         {
             "title": "NY Style Pepperoni (40 sm)",
@@ -307,7 +321,8 @@
             "price": "23",
             "subcategory": [],
             "category": "pizza",
-            "variations": []
+            "variations": [],
+            "id": "RMgpKFeqlk4t9r-tVCQpF"
         },
         {
             "title": "Cheddar Dabl Burger",
@@ -347,7 +362,8 @@
                     "price": "25",
                     "size": "Böyük, 35 sm -  25 M"
                 }
-            ]
+            ],
+            "id": "vbXseAqErlzV8atr_-0My"
         },
         {
             "title": "Çiken Ranç",
@@ -392,7 +408,8 @@
                     "price": "22",
                     "size": "Böyük, 35 sm -  22 M"
                 }
-            ]
+            ],
+            "id": "OvMcW7F9wdM619lbtxc2S"
         },
         {
             "title": "Papa Miks",
@@ -407,7 +424,8 @@
                     "price": "20",
                     "size": "Çiken BBQ, Hot&Spaysi, Marqarita, Klassik Pepperoni -  20 M"
                 }
-            ]
+            ],
+            "id": "FLvaQ4EYLwwfSZ07FaLxE"
         },
         {
             "title": "Acılı Vegetarian",
@@ -455,7 +473,8 @@
                     "price": "9",
                     "size": "Kiçik, 23 sm -  9 M"
                 }
-            ]
+            ],
+            "id": "WCKuOjBFVbt9JcwaXvYuh"
         },
         {
             "title": "4 Pendir",
@@ -495,7 +514,8 @@
                     "price": "22",
                     "size": "Böyük, 35 sm -  22 M"
                 }
-            ]
+            ],
+            "id": "-aTxaJD9K03fV0couZBp-"
         },
         {
             "title": "Cheddar Çiken Club",
@@ -535,7 +555,8 @@
                     "price": "11",
                     "size": "Kiçik, 23 sm -  11 M"
                 }
-            ]
+            ],
+            "id": "6aG4F1Sdx6hxSmpaxRomx"
         },
         {
             "title": "Çiken Barbekyu",
@@ -582,7 +603,8 @@
                     "price": "22",
                     "size": "Böyük, 35 sm -  22 M"
                 }
-            ]
+            ],
+            "id": "Jg8nHSg8MLUK9jrh0pAtH"
         },
         {
             "title": "Meksika",
@@ -630,7 +652,8 @@
                     "price": "20",
                     "size": "Böyük, 35 sm -  20 M"
                 }
-            ]
+            ],
+            "id": "J8FwVqgk3_iUbvYEXifSn"
         },
         {
             "title": "Super Papa",
@@ -672,7 +695,8 @@
                     "price": "23",
                     "size": "Böyük, 35 sm -  23 M"
                 }
-            ]
+            ],
+            "id": "qaE-Gq9cxGDDmnCrQhN_L"
         },
         {
             "title": "Yunan",
@@ -715,7 +739,8 @@
                     "price": "16",
                     "size": "Böyük, 35 sm -  16 M"
                 }
-            ]
+            ],
+            "id": "JTG9ZHwbk2D74rfg2T4kZ"
         },
         {
             "title": "Çiken Çizburger",
@@ -757,7 +782,8 @@
                     "price": "23",
                     "size": "Böyük, 35 sm -  23 M"
                 }
-            ]
+            ],
+            "id": "MwbtxDjrw6WhJUbOeybs_"
         },
         {
             "title": "Marqarita",
@@ -804,7 +830,8 @@
                     "price": "16",
                     "size": "Böyük, 35 sm -  16 M"
                 }
-            ]
+            ],
+            "id": "VvP2Artn-992jWOIlAjQ8"
         },
         {
             "title": "Qarışıq Ət",
@@ -846,7 +873,8 @@
                     "price": "28",
                     "size": "Böyük, 35 sm -  28 M"
                 }
-            ]
+            ],
+            "id": "rnc4l77WUYE8KPlG0Ot1k"
         },
         {
             "title": "Vegetarian",
@@ -893,7 +921,8 @@
                     "price": "18",
                     "size": "Böyük, 35 sm -  18 M"
                 }
-            ]
+            ],
+            "id": "KcO7mTzchPV4XpJ-vIEUQ"
         },
         {
             "title": "Spaysi İtalyan",
@@ -933,7 +962,8 @@
                     "price": "27",
                     "size": "Böyük, 35 sm -  27 M"
                 }
-            ]
+            ],
+            "id": "mabUrM4PThXfuxWZp271h"
         },
         {
             "title": "Rastik ",
@@ -978,7 +1008,8 @@
                     "price": "5.5",
                     "size": "Mini pizza, 17 sm -  5.5 M"
                 }
-            ]
+            ],
+            "id": "lRL4SQrRYD_mHXuHmPb_a"
         },
         {
             "title": "Qarışıq ət BBQ",
@@ -1018,7 +1049,8 @@
                     "price": "29",
                     "size": "Böyük, 35 sm -  29 M"
                 }
-            ]
+            ],
+            "id": "0xw-QO-E30J_c-IQiTTV-"
         },
         {
             "title": "Bonanza",
@@ -1058,7 +1090,8 @@
                     "price": "25",
                     "size": "Böyük, 35 sm -  25 M"
                 }
-            ]
+            ],
+            "id": "fwBriqYXxA0y7Uv4dcml_"
         },
         {
             "title": "Dabl Çizburger",
@@ -1100,7 +1133,8 @@
                     "price": "23",
                     "size": "Böyük, 35 sm -  23 M"
                 }
-            ]
+            ],
+            "id": "4_e0cNmHzRfy8Eu0wrvTA"
         },
         {
             "title": "Havay",
@@ -1147,7 +1181,8 @@
                     "price": "23",
                     "size": "Böyük, 35 sm -  23 M"
                 }
-            ]
+            ],
+            "id": "EoeQc7wZMPHHx6-URxVHL"
         },
         {
             "title": "Vestern Barbekyu",
@@ -1194,7 +1229,8 @@
                     "price": "22",
                     "size": "Böyük, 35 sm -  22 M"
                 }
-            ]
+            ],
+            "id": "p867Y-U9iR0UvgJt1wyNl"
         },
         {
             "title": "Klassik Pepperoni",
@@ -1241,7 +1277,8 @@
                     "price": "19",
                     "size": "Böyük, 35 sm -  19 M"
                 }
-            ]
+            ],
+            "id": "ZIvN-kGG6GsmYMvJm14J_"
         },
         {
             "title": "Hot and Spaysi",
@@ -1289,7 +1326,8 @@
                     "price": "21",
                     "size": "Böyük, 35 sm -  21 M"
                 }
-            ]
+            ],
+            "id": "bCcqe-4LcJscIHp-0itpH"
         },
         {
             "title": "Marinera",
@@ -1336,7 +1374,8 @@
                     "price": "22",
                     "size": "Böyük, 35 sm -  22 M"
                 }
-            ]
+            ],
+            "id": "Pd01XJfzbdh-BOxDAyKG2"
         },
         {
             "title": "Litl İtaliya",
@@ -1378,7 +1417,8 @@
                     "price": "22",
                     "size": "Böyük, 35 sm -  22 M"
                 }
-            ]
+            ],
+            "id": "WJX9dW58zb5a02-yfbSwc"
         },
         {
             "title": "Nyu Orleans",
@@ -1420,7 +1460,8 @@
                     "price": "21",
                     "size": "Böyük, 35 sm -  21 M"
                 }
-            ]
+            ],
+            "id": "mUaeVzpr3vQATXbD1lL0p"
         },
         {
             "title": "Çiken Baffalo",
@@ -1463,7 +1504,8 @@
                     "price": "23",
                     "size": "Böyük, 35 sm -  23 M"
                 }
-            ]
+            ],
+            "id": "5yREPOWxOJUcjyjBHiMsE"
         },
         {
             "title": "Çiken Göbələk",
@@ -1505,7 +1547,8 @@
                     "price": "23",
                     "size": "Böyük, 35 sm -  23 M"
                 }
-            ]
+            ],
+            "id": "zkhD85NasHA7kGgzqYu7Y"
         }
     ],
     "qalyanaltilar": [
@@ -1515,7 +1558,8 @@
             "composition": "8 ədəd roll, Pizza-Sous",
             "price": "9",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "FZv6qE3czddyXcsPNugrG"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/snacks/Cheddar-Rolls.png",
@@ -1523,7 +1567,8 @@
             "composition": "8 ədəd roll, Pizza-Sous",
             "price": "9",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "8VV_biUJlxgO0O2IffnHJ"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/snacks/Chicken-Rolls.jpg",
@@ -1531,7 +1576,8 @@
             "composition": "Qril Toyuğu, Turşu Xiyar, Mozzarella Pendiri, Ranç Sousu",
             "price": "9",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "O7J-mgCfR2ozRkdqNTU5C"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/snacks/Spicy-Chicken-Rolls.jpg",
@@ -1539,7 +1585,8 @@
             "composition": "Qril Toyuğu, Halapeno Bibəri, Mozzarella Pendiri, Ranç Sousu",
             "price": "9",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "6XN5XJiPROXkak5EU0cjg"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/snacks/Cheddar-Pendirli-%C3%A7ubuqlar.png",
@@ -1547,7 +1594,8 @@
             "composition": "1 ədəd Pizza sousu, 1 ədəd sarımsaq sousu",
             "price": "9",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "fsH2cBcOmsHUW3xC3VyMb"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/pendirli_cubuqlar.jpg",
@@ -1555,7 +1603,8 @@
             "composition": " Sarımsaq Sousu, Pizza-Sous",
             "price": "7",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "tAdon4jRY33T7ZLIi0sT5"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/snacks/pendirli-chubuqlar-bikon%20(1).png",
@@ -1563,7 +1612,8 @@
             "composition": "Sarımsaq Sousu, Vetçina, Göbələk, Mozzarella",
             "price": "9",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "NMSCI_Jks9Uw9n0ASSggu"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/snacks/pendirli-chubuqlar-kuncut%20(1).png",
@@ -1571,7 +1621,8 @@
             "composition": "Sarımsaq Sousu, Mozzarella, Küncüt",
             "price": "8",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "LmUbRtShRGFV4sWl0rIJx"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/sarimsaqli_cubuqlar.jpg",
@@ -1579,7 +1630,8 @@
             "composition": "Sarımsaq Sousu, Pizza-Sous",
             "price": "3",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "g-T5qOh1aGE8vhVfdcrMK"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/Campaigns/2023/Noyabr/New%20products/Chiken-Poppers-BBQ-320x220.png",
@@ -1587,7 +1639,8 @@
             "composition": "150 qram",
             "price": "6",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "am5-K4n64G7BegMvwWZoT"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/Calzone_Chicken.jpg",
@@ -1595,7 +1648,8 @@
             "composition": "Qril Toyuğu, Göbələk, Sarımsaq Sousu, Mozzarella ",
             "price": "6",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "yYqpNE4R6TUOV6MsLGJGW"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/Calzone_Pepperoni.jpg",
@@ -1603,7 +1657,8 @@
             "composition": "Pepperoni, İtalyan Sosisləri, Sarımsaq Sousu, Mozzarella ",
             "price": "6",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "2Zx4jxh4QrW0bgGRcjpzl"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/snacks/pendirli-m%C3%BCt%C9%99kk%C9%99l%C9%99r.png",
@@ -1611,7 +1666,8 @@
             "composition": "1 ədəd Pizza sousu, 1 ədəd Sarımsaq sousu",
             "price": "10",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "kdgUp2zTgsmbNOpQYf4yP"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/toyuq_qanadlari.jpg",
@@ -1619,7 +1675,8 @@
             "composition": "Barbekyu və ya Baffalo sousu ilə (250 gr)",
             "price": "9",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "9iyX49FajRbm4ARaQYvXA"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/kartof_dilimleri.jpg",
@@ -1627,7 +1684,8 @@
             "composition": "200 qram",
             "price": "4.9",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "4KFYnIxCe1n5CTPvEzM-G"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/Campaigns/2024/%C3%87iken%20Poppers.jpg",
@@ -1635,7 +1693,8 @@
             "composition": "150 qram",
             "price": "6",
             "category": "qalyanaltilar",
-            "variations": []
+            "variations": [],
+            "id": "FyzDz2x93NuoLfDz8xzKJ"
         }
     ],
     "salat": [
@@ -1645,7 +1704,8 @@
             "composition": "Qril Toyuq, Aysberq Kahı, Suxari, Pomidor, Parmesan, Sezar Sousu",
             "price": "9",
             "category": "salat",
-            "variations": []
+            "variations": [],
+            "id": "dnRddjSK2MyvNe5h20rNB"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/Greek%20Salad.jpg",
@@ -1653,7 +1713,8 @@
             "composition": "Xiyar, Pomidor, Aysberq Kahı, Qara Zeytun, Feta Pendiri, İtalyan Sousu, Oreqano, Yaşıl Bibər",
             "price": "6",
             "category": "salat",
-            "variations": []
+            "variations": [],
+            "id": "0jf9vuFBlBIoG2jjSBUn2"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/Garden%20Slad.jpg",
@@ -1661,7 +1722,8 @@
             "composition": "Xiyar, Pomidor, Aysberq Kahı, Qara Zeytun, Yaşıl Bibər, İtalyan Sousu",
             "price": "5",
             "category": "salat",
-            "variations": []
+            "variations": [],
+            "id": "exL_CFztVJmGQnnUY5-Ia"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/salads/Tuna%20Salad_no_tomato_Azer_158_1.jpg",
@@ -1669,7 +1731,8 @@
             "composition": "Ton Balığı, Aysberq Kahı, Qara Zeytun, Qarğıdalı, Xiyar, İtalyan Sousu",
             "price": "8",
             "category": "salat",
-            "variations": []
+            "variations": [],
+            "id": "PK1RYCW7elEyIqRFrABQs"
         }
     ],
     "pasta": [
@@ -1679,7 +1742,8 @@
             "composition": "Spagetti, Pepperoni, Vetçina, İtalyan Sosisləri, Yaşıl Bibər, Göbələk, Pizza Sous, Mozzarella ",
             "price": "9",
             "category": "pasta",
-            "variations": []
+            "variations": [],
+            "id": "FHMPJoS82m0RYMQq6iB5h"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/pasta_chicken_ranch.jpg",
@@ -1687,7 +1751,8 @@
             "composition": "Spagetti, Qril Toyuğu, Göbələk, Ranç Sousu, Mozzarella ",
             "price": "9",
             "category": "pasta",
-            "variations": []
+            "variations": [],
+            "id": "zZJgLH7n4Ki_81LWnM_qt"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/pasta_mamas_pasta.jpg",
@@ -1695,7 +1760,8 @@
             "composition": "Spagetti, Parmezan, Oregano, Pizza Sous, Mozzarella ",
             "price": "7",
             "category": "pasta",
-            "variations": []
+            "variations": [],
+            "id": "fKffI5lk0LMW6whzcHBs8"
         }
     ],
     "souses": [
@@ -1705,7 +1771,8 @@
             "composition": "",
             "price": "0.8",
             "category": "souses",
-            "variations": []
+            "variations": [],
+            "id": "R6iGC1C98qT7Y4EDn9A5x"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/Barbeque.jpg",
@@ -1713,7 +1780,8 @@
             "composition": "",
             "price": "0.8",
             "category": "souses",
-            "variations": []
+            "variations": [],
+            "id": "RfbfLtlrFUnPIZYrjkP94"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/Garlic.jpg",
@@ -1721,7 +1789,8 @@
             "composition": "",
             "price": "0.8",
             "category": "souses",
-            "variations": []
+            "variations": [],
+            "id": "VJJtPIERk_JdyXCxqyWES"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/Buffalo.jpg",
@@ -1729,7 +1798,8 @@
             "composition": "",
             "price": "0.8",
             "category": "souses",
-            "variations": []
+            "variations": [],
+            "id": "rdKpnzxGTjLMjNtq2lmnM"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/Thousand-island.jpg",
@@ -1737,7 +1807,8 @@
             "composition": "",
             "price": "0.8",
             "category": "souses",
-            "variations": []
+            "variations": [],
+            "id": "-yEn5O7SS7e3bjaVkcpRP"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/Pizza.jpg",
@@ -1745,7 +1816,8 @@
             "composition": "",
             "price": "0.8",
             "category": "souses",
-            "variations": []
+            "variations": [],
+            "id": "XWIUvwpr7HxfPyHd1xPwx"
         }
     ],
     "icki": [
@@ -1756,7 +1828,8 @@
             "price": "2.5",
             "category": "icki",
             "variations": [],
-            "variety": []
+            "variety": [],
+            "id": "mOELfoWWgVpv80bcDqjjq"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/drinks/1Coca-cola-shekersiz.png",
@@ -1765,7 +1838,8 @@
             "price": "2.5",
             "category": "icki",
             "variations": [],
-            "variety": []
+            "variety": [],
+            "id": "-1h3P3_WohQhZal5DDEXF"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/drinks/1Sprite.png",
@@ -1774,7 +1848,8 @@
             "price": "2.5",
             "category": "icki",
             "variations": [],
-            "variety": []
+            "variety": [],
+            "id": "hVq6OZcH0dzGMoMqfkyve"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/drinks/1Cappi.png",
@@ -1789,7 +1864,8 @@
                 "Albalı (200 ml) -  1.5 M",
                 "Şaftalı (200 ml) -  1.5 M",
                 "Alma (200 ml) -  1.5 M"
-            ]
+            ],
+            "id": "ngXXdWf0-bSFEvEzkcijK"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/milla.jpg",
@@ -1801,7 +1877,8 @@
             "variety": [
                 "Nanəli -  1.5 M",
                 "Adi -  1.5 M"
-            ]
+            ],
+            "id": "wS3k04rZQ5JOlGGH_YC6Q"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/drinks/1Fanta.png",
@@ -1810,7 +1887,8 @@
             "price": "2.5",
             "category": "icki",
             "variations": [],
-            "variety": []
+            "variety": [],
+            "id": "wWIWoI2bPKXivuKxQFid0"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/drinks/1Bonaqua.png",
@@ -1819,7 +1897,8 @@
             "price": "1",
             "category": "icki",
             "variations": [],
-            "variety": []
+            "variety": [],
+            "id": "pagGDP6yMZ31FSrW6hHqr"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/drinks/1Bonaqua.png",
@@ -1828,7 +1907,8 @@
             "price": "1",
             "category": "icki",
             "variations": [],
-            "variety": []
+            "variety": [],
+            "id": "kC6EeVDTMr0K9CPRMQeIU"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/drinks/1Fusetea.png",
@@ -1841,7 +1921,8 @@
                 "Şaftalı -  3 M",
                 "Limon -  3 M",
                 "Mango Ananas -  3 M"
-            ]
+            ],
+            "id": "IH0kTa907i600LNrOCAhW"
         }
     ],
     "desertlar": [
@@ -1852,7 +1933,8 @@
             "price": "7",
             "category": "desertlar",
             "variations": [],
-            "variety": []
+            "variety": [],
+            "id": "V5TkU5_Jb5cGfmey9bu-O"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/desert/Tiramisu--320x220-px.png",
@@ -1861,7 +1943,8 @@
             "price": "7",
             "category": "desertlar",
             "variations": [],
-            "variety": []
+            "variety": [],
+            "id": "LqUOx499IGm5KS69gzWCW"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/desert/%C5%9Eokoladl%C4%B1-sufle.png",
@@ -1870,7 +1953,8 @@
             "price": "5",
             "category": "desertlar",
             "variations": [],
-            "variety": []
+            "variety": [],
+            "id": "Rl_H4YpvxFumTx-sND0V5"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/desert/raspberry-CHEESECAKE.png",
@@ -1879,7 +1963,8 @@
             "price": "7",
             "category": "desertlar",
             "variations": [],
-            "variety": []
+            "variety": [],
+            "id": "p2GBXwJHaa1mHBRJru5uF"
         },
         {
             "img": "https://www.papajohns.az/uploads/images/desert/dondurma%20algida.jpg",
@@ -1891,33 +1976,8 @@
             "variety": [
                 "Çiyələkli -  2 M",
                 "Şokoladlı -  2 M"
-            ]
-        }
-    ],
-    "kampaniyalar":[
-        {
-            "img":"https://www.papajohns.az/uploads/images/banners/Yashin%20qeder%20endirim/Yashin%20qeder%20endirim.jpeg"
-        },
-        {
-            "img":"https://www.papajohns.az/uploads/images/Campaigns/2023/Noyabr/New%20products/pizza-party-2023-feed.png"
-        },
-        {
-            "img":"https://www.papajohns.az/uploads/images/banners/Papa%20Talk/papa%20talk.jpg"
-        },
-        {
-            "img":"https://www.papajohns.az/uploads/images/Campaigns/2023/February/kombo%20menyu%20teze%20ler%202022%20son%209.jpg"
-        },
-        {
-            "img":"https://www.papajohns.az/uploads/images/Campaigns/2024/%C4%B0yul/Achilish-Elmler%20(2).png"
-        },
-        {
-            "img":"https://www.papajohns.az/uploads/images/Campaigns/2024/%C4%B0yul/Cola-Orta-Karnaval-and-meksika.png"
-        },
-        {
-            "img":"https://www.papajohns.az/uploads/images/Campaigns/2024/%C4%B0yul/iki-boyuk-Litl%20%C4%B0taliya%20and%20Marqarita.png"
-        },
-        {
-            "img":"https://www.papajohns.az/uploads/images/Campaigns/2024/%C4%B0yul/Kichik-Yunan-%26-Ranch.png"
+            ],
+            "id": "mK-6aVd-B5Ndw3DrHCvQF"
         }
     ]
 }
