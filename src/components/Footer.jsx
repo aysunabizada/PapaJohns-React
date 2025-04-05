@@ -1,9 +1,8 @@
-import React from 'react'
 import { FaFacebookF, FaTwitter, FaInstagram, FaDiscord} from "react-icons/fa";
 
 function Footer() {
     return (
-        <footer>
+        <footer className="px-5">
             <div className="mobil-f">
                 <div className="mobil-footer p20">
                     <div className="mf-left">

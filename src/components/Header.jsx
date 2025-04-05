@@ -1,10 +1,9 @@
-import React from 'react'
 import { Link } from "react-router-dom";
 import { FaBasketShopping, FaUser } from "react-icons/fa6";
 import logo from '../../src/assets/img/logo.png';
 import flagAze from '../../src/assets/img/flag_az.png';
 
-function Header({ setStatus, status, count, pricee }) {
+function Header({ setStatus, count, pricee }) {
     return (
         <header>
             <nav>

@@ -1,8 +1,9 @@
 import { FaTimesCircle } from "react-icons/fa";
 import { FaXmark } from "react-icons/fa6";
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 
 function Basket({ status, setStatus, basket, pricee, count, del, setCount }) {
+    const [isImgBroken, setIsImgBroken] = useState(false);
     useEffect(() => {
         if (status) { document.body.classList.add('no-scroll') }
         else { document.body.classList.remove('no-scroll') }
@@ -19,7 +20,18 @@ function Basket({ status, setStatus, basket, pricee, count, del, setCount }) {
                     {
                         basket ? basket.map((item, i) => (
                             <div className="flex gap-5" key={i}>
-                                <img src={item.img} alt={item.title} className="max-w-[200px]" />
+                                {!isImgBroken ? (
+                                    <img
+                                        src={item.img}
+                                        alt={item.title}
+                                        className="max-w-[200px]"
+                                        onError={() => setIsImgBroken(true)}
+                                    />
+                                ) : (
+                                    <div className="rounded shadow-md animate-pulse">
+                                        <div className="w-[200px] h-full bg-gray-300"></div>
+                                    </div>
+                                )}
                                 <div className="">
                                     <h3>{item.title}</h3>
                                     <p className="text-[12px]">{item.composition}</p>
